@@ -8,7 +8,7 @@ Assigned task of refactoring existing website for better SEO optimization, acces
 * Added semantic tags in place of div tags.
 * Added alt text for images on page for accessibility.
 * Added selectors to make code easier to read.
-* Fixxed broken link
+* Fixed broken link
 * Added comments for better readability.
 
 ## Screenshot
