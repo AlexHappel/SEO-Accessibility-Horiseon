@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* selectors begin (elements) */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* selectors end (element) */
+/* selectors begin (class) */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +50,8 @@ a {
 p {
     font-size: 16px;
 }
-
+/* selectors end (class) */
+/* selector begin (elements) */
 .hero {
     height: 800px;
     width: 100%;
@@ -198,3 +200,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* selectors end (elements) */
