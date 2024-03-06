@@ -10,6 +10,7 @@ Assigned task of refactoring existing website for better SEO optimization, acces
 * Added selectors to make code easier to read.
 * Fixed broken link
 * Added comments for better readability.
+* Condensed code in style sheet.
 
 ## Screenshot
 
